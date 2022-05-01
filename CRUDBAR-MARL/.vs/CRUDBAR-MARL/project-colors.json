@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cebd8ef8-5b1d-4907-a0ce-2534bbebc176": {
+      "ProjectGuid": "cebd8ef8-5b1d-4907-a0ce-2534bbebc176",
+      "DisplayName": "CapaPresentación",
+      "ColorIndex": 0
+    },
+    "38c942e4-4623-4e01-a0a7-7b81aa7533fc": {
+      "ProjectGuid": "38c942e4-4623-4e01-a0a7-7b81aa7533fc",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 1
+    },
+    "d472a8b2-b038-47d3-adee-d34a559bfd93": {
+      "ProjectGuid": "d472a8b2-b038-47d3-adee-d34a559bfd93",
+      "DisplayName": "CapaNegocio",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

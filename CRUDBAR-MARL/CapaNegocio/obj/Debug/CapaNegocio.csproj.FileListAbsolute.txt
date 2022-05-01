@@ -1,0 +1,11 @@
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaNegocio\obj\Debug\CapaNegocio.pdb

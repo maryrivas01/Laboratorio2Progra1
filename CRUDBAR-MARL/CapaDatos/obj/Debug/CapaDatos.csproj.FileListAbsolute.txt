@@ -1,0 +1,9 @@
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Maria\OneDrive\Escritorio\PROGRAMACIÓN 1\CRUDBAR-MARL\CapaDatos\obj\Debug\CapaDatos.pdb
